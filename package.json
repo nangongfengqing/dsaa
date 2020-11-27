@@ -1,0 +1,25 @@
+{
+  "name": "dsaa",
+  "version": "1.0.0",
+  "description": "Data structures and algorithms for JavaScript and TypeScript",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nangongfengqing/dsaa.git"
+  },
+  "keywords": [
+    "data structures",
+    "algorithms",
+    "JavaScript",
+    "TypeScript"
+  ],
+  "author": "nangongfengqing",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/nangongfengqing/dsaa/issues"
+  },
+  "homepage": "https://github.com/nangongfengqing/dsaa#readme"
+}
